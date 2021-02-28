@@ -8,21 +8,21 @@ This data was extracted from the 1994 Census bureau database by Ronny Kohavi and
 
 ## Data Dictionary:
 
-age - the age of an individual
-workclass - a general term to represent the employment status of an individual
-final weight - in other words, this is the number of people the census believes the entry represents
-education - the highest level of education achieved by an individual
-education_num - the highest level of education achieved in numerical form.
-marital_status - marital status of an individual. Married civ spouse corresponds to a civilian spouse while Married AF
-spouse is a spouse in the Armed Forces
-occupation - the general type of occupation of an individual
-relationship - represents what this individual is relative to others
-race - descriptions of an individual’s race
-sex - the biological sex of the individual
-capital_gain - capital gains for an individual
-capital_loss - capital loss for an individual
-hours_per_week - the hours an individual has reported to work per week continuous
-income - whether or not an individual makes more than 50,000 dollars annually (the label)
+1. age - the age of an individual
+2. workclass - a general term to represent the employment status of an individual
+3. final weight - in other words, this is the number of people the census believes the entry represents
+4. education - the highest level of education achieved by an individual
+5. education_num - the highest level of education achieved in numerical form.
+6. marital_status - marital status of an individual. Married civ spouse corresponds to a civilian spouse while Married AF
+7. spouse is a spouse in the Armed Forces
+8. occupation - the general type of occupation of an individual
+9. relationship - represents what this individual is relative to others
+10. race - descriptions of an individual’s race
+11. sex - the biological sex of the individual
+12. capital_gain - capital gains for an individual
+13. capital_loss - capital loss for an individual
+14. hours_per_week - the hours an individual has reported to work per week continuous
+15. income - whether or not an individual makes more than 50,000 dollars annually (the label)
 
 
 ## Framing Problem:
