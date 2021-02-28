@@ -2,11 +2,11 @@
 Predicting The Income Level Based On U.S Census Data
 
 
-Description:
+Description:\n
 This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year.
 
 
-Data Dictionary:
+Data Dictionary:\n
 age - the age of an individual
 workclass - a general term to represent the employment status of an individual
 final weight - in other words, this is the number of people the census believes the entry represents
@@ -24,10 +24,16 @@ hours_per_week - the hours an individual has reported to work per week continuou
 income - whether or not an individual makes more than 50,000 dollars annually (the label)
 
 
-Framing Problem:
+Framing Problem:\n
     For now, we can categorize our Machine Learning System as:
             Supervised Learning Task- we are given labled training data
             Classification task- our model is expected to predict the income=>50k or income=<50k using given features
             
-ML Models:
-1. DataPreprocessing
+ML Models:\n
+1. [Data Preprocessing](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DataPreprocessing.ipynb)
+2. [Decision Tree](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DecisionTree.ipynb)
+3. [K Nearest Neighbors](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/KNN.ipynb)
+4. [Logistic Regression](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/LogisticRegression.ipynb)
+5. [Naive Bayes](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/NaiveBayes.ipynb)
+6. [Random Forest](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/RandomForest.ipynb)
+7. [XGBoost](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/XGBoost.ipynb)
