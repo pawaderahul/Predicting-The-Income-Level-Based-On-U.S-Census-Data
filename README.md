@@ -42,3 +42,15 @@ income - whether or not an individual makes more than 50,000 dollars annually (t
 5. [Naive Bayes](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/NaiveBayes.ipynb)
 6. [Random Forest](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/RandomForest.ipynb)
 7. [XGBoost](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/XGBoost.ipynb)
+
+## Model Performance
+| Models             | Accuracy Score       | 
+| ------------------ |:--------------------:|
+| Decision Tree      | 0.8446184553968985   |
+| K Nearest Neighbors| 0.7990173499155535   |     
+| Logistic Regression| 0.8000921234454169   |
+| Naive Bayes        | 0.7954859511745739   |
+| Random Forest      | 0.8608935974205435   |
+| XGBoost            | 0.8688776293566712   |
+
+## Hence XGBoost model gives best performance for our data
