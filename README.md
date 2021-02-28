@@ -33,6 +33,8 @@ income - whether or not an individual makes more than 50,000 dollars annually (t
             
 ## [Dataset](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/adult.csv)
             
+## [Data Preprocessing](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DataPreprocessing.ipynb)
+            
 ## ML Models:
 1. [Data Preprocessing](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DataPreprocessing.ipynb)
 2. [Decision Tree](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DecisionTree.ipynb)
