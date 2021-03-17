@@ -36,22 +36,21 @@ This data was extracted from the 1994 Census bureau database by Ronny Kohavi and
 ## [Data Preprocessing](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DataPreprocessing.ipynb)
             
 ## ML Models:
-1. [Data Preprocessing](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DataPreprocessing.ipynb)
-2. [Decision Tree](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DecisionTree.ipynb)
-3. [K Nearest Neighbors](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/KNN.ipynb)
-4. [Logistic Regression](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/LogisticRegression.ipynb)
-5. [Naive Bayes](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/NaiveBayes.ipynb)
-6. [Random Forest](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/RandomForest.ipynb)
-7. [XGBoost](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/XGBoost.ipynb)
+1. [Decision Tree](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/DecisionTree.ipynb)
+2. [K Nearest Neighbors](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/KNN.ipynb)
+3. [Logistic Regression](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/LogisticRegression.ipynb)
+4. [Naive Bayes](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/NaiveBayes.ipynb)
+5. [Random Forest](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/RandomForest.ipynb)
+6. [XGBoost](https://github.com/pawaderahul/Predicting-The-Income-Level-Based-On-U.S-Census-Data/blob/main/XGBoost.ipynb)
 
-## Model Performance
+## Model Performance (According to r2_score value)
 | Models             | Accuracy Score       | 
 | ------------------ |:--------------------:|
-| Decision Tree      | 0.8446184553968985   |
-| K Nearest Neighbors| 0.7990173499155535   |     
-| Logistic Regression| 0.8000921234454169   |
-| Naive Bayes        | 0.7954859511745739   |
-| Random Forest      | 0.8608935974205435   |
-| XGBoost            | 0.8688776293566712   |
+| Decision Tree      | 0.8446               |
+| K Nearest Neighbors| 0.7990               |     
+| Logistic Regression| 0.8000               |
+| Naive Bayes        | 0.7954               |
+| Random Forest      | 0.8608               |
+| XGBoost            | 0.8688               |
 
 ## Hence XGBoost model gives best performance for our data
